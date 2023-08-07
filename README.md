@@ -54,12 +54,4 @@ pip install pandas emoji plotly
 
 - If a message contains multiple emojis, each emoji will be treated as a separate entry in the "Emojis" column.
 
-## Disclaimer
 
-This script is intended for personal use and may not work correctly if your chat data follows a different format or if there are substantial variations in the WhatsApp export file structure.
-
-Use the script responsibly and ensure that you have the necessary permissions to analyze and share the chat data with others.
-
----
-
-Please make sure to follow the instructions above to analyze your WhatsApp group chat effectively. If you have any questions or encounter issues, feel free to reach out for support. Enjoy analyzing your WhatsApp group chat data!
