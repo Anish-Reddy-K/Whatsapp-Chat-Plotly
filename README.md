@@ -46,12 +46,5 @@ pip install pandas emoji plotly
    - Most Used Words: The top 10 most frequently used words in the chat.
    - Most Used Emojis: The top 10 most frequently used emojis in the chat.
 
-## Note
-
-- The script tries to infer the timestamp format based on your chat data. If it encounters an error while parsing the timestamp, it will attempt alternative formats specified in the `formats` list.
-
-- The script assumes that the messages in the chat follow the pattern: "timestamp - sender: message".
-
-- If a message contains multiple emojis, each emoji will be treated as a separate entry in the "Emojis" column.
 
 
